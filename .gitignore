@@ -1,0 +1,8 @@
+# Zig build output and caches
+zig-out/
+.zig-cache/
+# Packages fetched by `zig build` / `zig fetch` (re-fetched from build.zig.zon)
+zig-pkg/
+
+# Per-player save data
+highscore.txt
